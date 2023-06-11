@@ -1,0 +1,32 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <variables>
+    <variable id="6[TU/C4tAseaVkQnMKL+">i</variable>
+  </variables>
+  <block type="controls_for" id="pSgJG+_AifS[;(v!8MJW" x="198" y="85">
+    <field name="VAR" id="6[TU/C4tAseaVkQnMKL+">i</field>
+    <value name="FROM">
+      <shadow type="math_number" id="Bp//1^GW+Z_q=z#-(A{@">
+        <field name="NUM">1</field>
+      </shadow>
+    </value>
+    <value name="TO">
+      <shadow type="math_number" id="_z85]tblZ#-?iqmhyB-U">
+        <field name="NUM">5</field>
+      </shadow>
+    </value>
+    <value name="BY">
+      <shadow type="math_number" id="}ltR%!c8(`gom2OL9Zjm">
+        <field name="NUM">1</field>
+      </shadow>
+    </value>
+    <statement name="DO">
+      <block type="text_print" id="ATQ$zYdruJv3S^^kG2@`">
+        <value name="TEXT">
+          <block type="variables_get" id="H]zmh=r~,Ls7;GdR,4tH">
+            <field name="VAR" id="6[TU/C4tAseaVkQnMKL+">i</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+</xml>

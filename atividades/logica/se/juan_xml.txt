@@ -1,0 +1,3 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="text_print" id="b)a]m$(6grtO9ZdV@#y~" x="568" y="104"></block>
+</xml>

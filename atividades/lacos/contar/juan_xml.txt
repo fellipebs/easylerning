@@ -1,0 +1,32 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables>
+    <variable type="" id="iPxG5R7wyesG#4,++C8D">i</variable>
+  </variables>
+  <block type="controls_for" id="`M%m,#v2xuu2ReZiZI3M" x="170" y="90">
+    <field name="VAR" id="iPxG5R7wyesG#4,++C8D" variabletype="">i</field>
+    <value name="FROM">
+      <shadow type="math_number" id="#R5]+i40HvjwXq!a~2{?">
+        <field name="NUM">1</field>
+      </shadow>
+    </value>
+    <value name="TO">
+      <shadow type="math_number" id="EvBy;L??j]Nn{HT63x1z">
+        <field name="NUM">5</field>
+      </shadow>
+    </value>
+    <value name="BY">
+      <shadow type="math_number" id="u)CaI2jr=?zD^vx#F%C_">
+        <field name="NUM">1</field>
+      </shadow>
+    </value>
+    <statement name="DO">
+      <block type="text_print" id="!-475G-[A/THIzJ-mi{S">
+        <value name="TEXT">
+          <block type="variables_get" id="27bv|*D)Q-(^c5x4fTf8">
+            <field name="VAR" id="iPxG5R7wyesG#4,++C8D" variabletype="">i</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+</xml>

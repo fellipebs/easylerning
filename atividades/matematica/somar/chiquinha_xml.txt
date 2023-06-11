@@ -1,0 +1,32 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <variables>
+    <variable id="F!D|Jh)E%AGr8=Hau#1R">soma</variable>
+  </variables>
+  <block type="variables_set" id="1OO=Fmy-$}BvztfA]f/m" x="27" y="149">
+    <field name="VAR" id="F!D|Jh)E%AGr8=Hau#1R">soma</field>
+    <value name="VALUE">
+      <block type="math_arithmetic" id="D%4v%R0wIIer1*WHj/+u">
+        <field name="OP">ADD</field>
+        <value name="A">
+          <block type="math_number" id="mY,P_XJmd{,y^?Er7di~">
+            <field name="NUM">3</field>
+          </block>
+        </value>
+        <value name="B">
+          <block type="math_number" id="xS5oyRLxN=L,$(Yz`ae4">
+            <field name="NUM">2</field>
+          </block>
+        </value>
+      </block>
+    </value>
+    <next>
+      <block type="text_print" id="W$hbA*]q}:/XHT5te^a4">
+        <value name="TEXT">
+          <block type="variables_get" id="js{afs~IOem):5j3}Yp{">
+            <field name="VAR" id="F!D|Jh)E%AGr8=Hau#1R">soma</field>
+          </block>
+        </value>
+      </block>
+    </next>
+  </block>
+</xml>

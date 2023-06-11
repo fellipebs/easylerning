@@ -1,0 +1,9 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="text_print" id="H%d?mT6}YP~[_-sA}-@+" x="170" y="249">
+    <value name="TEXT">
+      <shadow type="text" id="nC*B~)K)W#GJ=C@Uu*X~">
+        <field name="TEXT">abc</field>
+      </shadow>
+    </value>
+  </block>
+</xml>

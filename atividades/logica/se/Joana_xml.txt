@@ -1,0 +1,28 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="controls_if" id="IakI%/~2}er#fn}.#-iv" x="248" y="121">
+    <value name="IF0">
+      <block type="logic_compare" id="-rr-y6JNQM;3([*RhEw$">
+        <field name="OP">EQ</field>
+        <value name="A">
+          <block type="math_number" id="5U/h2-m]R^w)]-BR;#o?">
+            <field name="NUM">1</field>
+          </block>
+        </value>
+        <value name="B">
+          <block type="math_number" id="tf`i}E!qr(Me25PN_%!u">
+            <field name="NUM">1</field>
+          </block>
+        </value>
+      </block>
+    </value>
+    <statement name="DO0">
+      <block type="text_print" id="^fe*W0Q4R`I8A{5D:CSd">
+        <value name="TEXT">
+          <block type="text" id="X=Hq:oel{NR[oxThlgAu">
+            <field name="TEXT">Verdadeiro</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+</xml>

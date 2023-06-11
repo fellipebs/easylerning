@@ -1,0 +1,3 @@
+if (1 == 2) {
+  window.alert('1 é igual a 2');
+}

@@ -1,0 +1,32 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <variables>
+    <variable id="jX$8@z*u]gg7bmu}kvI9">Multiplicação</variable>
+  </variables>
+  <block type="variables_set" id="9uD_:*:QKwk61*nUxi-|" x="71" y="169">
+    <field name="VAR" id="jX$8@z*u]gg7bmu}kvI9">Multiplicação</field>
+    <value name="VALUE">
+      <block type="math_arithmetic" id="SHdyGs]q{efyxBK9wS%b">
+        <field name="OP">MULTIPLY</field>
+        <value name="A">
+          <block type="math_number" id=".5H_U+V3u:WZfThK]b@O">
+            <field name="NUM">4</field>
+          </block>
+        </value>
+        <value name="B">
+          <block type="math_number" id="NEjnUnl^hJx9b@@(j|pa">
+            <field name="NUM">2</field>
+          </block>
+        </value>
+      </block>
+    </value>
+    <next>
+      <block type="text_print" id="UDW^3$=xz,BiFw;;ln0+">
+        <value name="TEXT">
+          <block type="variables_get" id="youdme@(y*{=UBeZ?aR}">
+            <field name="VAR" id="jX$8@z*u]gg7bmu}kvI9">Multiplicação</field>
+          </block>
+        </value>
+      </block>
+    </next>
+  </block>
+</xml>

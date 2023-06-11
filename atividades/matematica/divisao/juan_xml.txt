@@ -1,0 +1,8 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables>
+    <variable type="" id="M9}*SbS,uagPO+G54pnI">Divisão</variable>
+  </variables>
+  <block type="variables_set" id="a_Iu#eb].hGeR,,|zZ:[" x="582" y="106">
+    <field name="VAR" id="M9}*SbS,uagPO+G54pnI" variabletype="">Divisão</field>
+  </block>
+</xml>

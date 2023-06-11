@@ -1,0 +1,32 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables>
+    <variable type="" id="1h%r?Snjp|!8m4wzK}[y">soma</variable>
+  </variables>
+  <block type="variables_set" id="Qeg]=;;PHUVodJ}frgz?" x="105" y="191">
+    <field name="VAR" id="1h%r?Snjp|!8m4wzK}[y" variabletype="">soma</field>
+    <value name="VALUE">
+      <block type="math_arithmetic" id="{8PnFK30i]7h6mKi!CkR">
+        <field name="OP">ADD</field>
+        <value name="A">
+          <block type="math_number" id="%4B~{V+aT#;4d.yB=O0*">
+            <field name="NUM">2</field>
+          </block>
+        </value>
+        <value name="B">
+          <block type="math_number" id="yr.cE`i=Z2luB)n44iaI">
+            <field name="NUM">3</field>
+          </block>
+        </value>
+      </block>
+    </value>
+    <next>
+      <block type="text_print" id="mI5rPS84{3,*0jfb/kM[">
+        <value name="TEXT">
+          <block type="variables_get" id="sAS]o8Zl/32EkFh!yOQp">
+            <field name="VAR" id="1h%r?Snjp|!8m4wzK}[y" variabletype="">soma</field>
+          </block>
+        </value>
+      </block>
+    </next>
+  </block>
+</xml>
